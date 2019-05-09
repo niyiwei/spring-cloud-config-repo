@@ -1,2 +1,4 @@
 foo: foo-test-4
 overview: overview-test-4
+# 允许本地覆盖
+spring.cloud.config.overrideNone=true
